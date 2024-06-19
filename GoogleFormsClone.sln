@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GoogleFormsClone", "GoogleFormsClone.vbproj", "{F89F0FC4-C4D7-45A3-818A-27EAC764F26A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89F0FC4-C4D7-45A3-818A-27EAC764F26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89F0FC4-C4D7-45A3-818A-27EAC764F26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89F0FC4-C4D7-45A3-818A-27EAC764F26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89F0FC4-C4D7-45A3-818A-27EAC764F26A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {100B6F1C-8D5B-43C7-963A-431B196FACAE}
+	EndGlobalSection
+EndGlobal
