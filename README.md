@@ -15,7 +15,7 @@ This project is a Windows Desktop Application built with Visual Basic using Visu
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Pavan-Kumar-Reddy-45/GoogleFormsClone
     ```
 2. Open the solution file (`.sln`) in Visual Studio.
 3. Build the solution to restore NuGet packages and compile the project.
@@ -47,7 +47,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License.
 
 ## Author
-Your Name
+Bhavanam Pavan Kumar Reddy
 
 ## Acknowledgements
 - Inspiration: Google Forms
